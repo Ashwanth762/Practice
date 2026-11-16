@@ -1,1 +1,2 @@
 This is the new test file 
+Now we are updating this file and commit changes
